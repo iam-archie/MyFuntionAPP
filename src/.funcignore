@@ -1,0 +1,6 @@
+obj/
+bin/
+*.csproj
+.vs/
+.vscode/
+WorkerExtensions/
